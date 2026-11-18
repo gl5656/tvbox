@@ -1,0 +1,18 @@
+{
+  "name": "咕噜咕噜4K",
+  "sites": [
+    {
+      "key": "glgl4k",
+      "name": "咕噜咕噜4K",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gl5656/tvbox@main/glgl4k.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    }
+  ],
+  "lives": [],
+  "parses": [],
+  "flags": []
+}
